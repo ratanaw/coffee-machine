@@ -1,4 +1,4 @@
 # coffee-machine
 
 This is a coffee machine!
-It was made with PyCharm. 
+I made it with PyCharm. 
