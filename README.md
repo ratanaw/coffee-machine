@@ -1,4 +1,3 @@
 # coffee-machine
 
-This is a coffee machine!
-I made it with PyCharm. 
+A simple "coffee machine" project following Hyperskill's tutorial.
